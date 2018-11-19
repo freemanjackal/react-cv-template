@@ -1,26 +1,26 @@
 const profile = {
-  name: 'S.Berkay Aydın',
-  title: 'Full Stack Developer',
-  mail: 'sbaydin06@gmail.com',
-  phoneNumber: '+90 (507) 808 4130',
-  website: 'sbaydin.com',
-  linkedin: 'linkedin.com/in/sbaydin',
-  github: 'github.com/sbayd',
-  imagePath: 'profile.png',
+  name: 'Maikel Navarro Diaz',
+  title: 'Software engineer',
+  mail: 'xlekiamx@gmail.com',
+  phoneNumber: '+55 (48) 998099799',
+  website: 'lekiam.com',
+  linkedin: '--',
+  github: 'github.com/freemanjackal',
+  imagePath: 'profile.jpg',
   twitter: null,
   educationDetails: {
     sectionTitle: '',
     list: [
-      { name: 'BSc in CEIT', school: 'Hacettepe University', date: '2013-Present' },
+      { name: 'BSc in ', school: 'Information Science University', date: '2003-2008' },
     ]
   },
   languages: {
     sectionTitle: 'Languages',
-    list: [{ name: 'Turkish', level: 'Native' }, { name: 'English', level: 'Professional' }, { name: 'Spanish', level: 'Beginner' }]
+    list: [{ name: 'Spanish', level: 'Native' }, { name: 'English', level: 'Professional' }, { name: 'portuguese', level: 'Intermediate' }]
   },
   interests: {
     sectionTitle: '',
-    list: ['Pipes', 'Analog Photography', 'Cooking', 'Archery', 'Poems', 'Drums']
+    list: ['Data Science', 'General artificial intelligence', 'Cryptos', 'Trading', 'Animes', 'Tv Series']
   }
 };
 

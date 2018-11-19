@@ -1,7 +1,10 @@
 export const careerProfile = {
   sectionTitle: 'Career Profile',
   icon: null,
-  description: '<p>I\'m coding something since I was 14. In the beginning I was creating game servers for popular games, after that I started with php and created some basic apps for small-sized companies. Then I decided to train myself. And now, I have successfully finished a good many projects you can see the project details <a href="#projects">below.</a> So, may be we can work together!</p>'
+  description: '<p>Graduated in 2008 as Software Engineer at University of Informatic\'s Science. From 2008 I started to '+ 
+  'teach software development at the same University where I reached in 2014 the Assistant Professor Category. When I was '+
+  'not teaching i was involved in the development of software in different projects developed in production centers inside '+
+  'the University.'+'</p>'
 };
 
 export default careerProfile;

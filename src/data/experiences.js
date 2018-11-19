@@ -4,23 +4,24 @@ export const experiences = {
   description: null,
   list: [
     {
-      title: 'Lead Software Developer',
-      company: 'JotForm',
-      description: 'I\'m working as a lead developer at JotForm Source team. We are creating some amazing features for JotForm!',
-      companyLink: 'http://jotform.com',
+      title: 'Professor',
+      company: 'UCI',
+      description: 'Professor at the university teaching pregrade, later postgrade courses after I acquired '
+      +'the Assistant category. Teaching mainly: Data structures and algorithms, Object oriented programming.',
+      companyLink: 'http://',
       companyShortDetail: '',
-      date: '2017.10 - Present'
+      date: '2008.09 - 2016'
     },
     {
       title: 'Software Developer',
-      company: 'JotForm',
-      description: 'I\'m using ReactJS and working as a front-end developer to develop new features for JotForm.',
-      companyLink: 'http://jotform.com',
+      company: 'UCI',
+      description: 'Using c# for developing a .Net application for Registrars and Notaries.',
+      companyLink: 'https://',
       companyShortDetail: '',
-      date: '2016.8 - 2017.10'
+      date: '2007.4 - 2008'
     },
     {
-      title: 'Full-Stack Developer',
+      title: '200',
       company: 'YD Software',
       description: 'I was using ASP.Net MVC Framework with N Tier Architecture to develop management systems, learning management systems & big data projects. And i was developing Android / IOS applications using Xamarin or NDK. You can see projects that I have completed for YD Software <a href=\'#projects\'>below.</a>',
       companyLink: 'http://ydyazilim.com',
@@ -28,12 +29,25 @@ export const experiences = {
       date: '2012 - 2016.8'
     },
     {
-      title: 'Intern',
+      title: 'Lead of development team',
       company: 'YD Software',
-      description: 'I was warming up with a Learning Management System including desktop and web apps.',
-      companyLink: 'http://ydyazilim.com',
+      description: '',
       companyShortDetail: 'ANKARA METU Technopolis(ODTU Teknokent)',
-      date: '2012.06 - 2012.10'
+      date: '2012.06 - 2014.10'
+    },
+    {
+      title: 'Blockchain developer',
+      company: 'YD Software',
+      description: '',
+      companyShortDetail: 'Plubr.SA',
+      date: '2017 - 2018'
+    },
+    {
+      title: 'Lead blockchain developer',
+      company: 'YD Software',
+      description: '',
+      companyShortDetail: 'Plubr.SA',
+      date: '2018 - '
     }
   ]
 };
