@@ -4,14 +4,14 @@ const profile = {
   mail: 'xlekiamx@gmail.com',
   phoneNumber: '+55 (48) 998099799',
   website: 'lekiam.com',
-  linkedin: '--',
+  //linkedin: '--',
   github: 'github.com/freemanjackal',
-  imagePath: 'profile.jpg',
+  imagePath: 'profile.png',
   twitter: null,
   educationDetails: {
     sectionTitle: '',
     list: [
-      { name: 'BSc in ', school: 'Information Science University', date: '2003-2008' },
+      { name: 'BSc in ', school: 'University of Informatics Science', date: '2003-2008' },
     ]
   },
   languages: {
